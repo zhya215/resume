@@ -1,7 +1,10 @@
 - var personal = contents['personal.json'].metadata
-h1= personal.name
-span= personal.city
-span ; 
-span= personal.country
-span ; 
-span= personal.email
+div.row
+	div.ten.columns
+		h1= personal.name
+	div.two.columns
+		span= personal.city
+		br
+		span= personal.country
+		br
+		span= personal.email
