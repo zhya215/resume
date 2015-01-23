@@ -1,0 +1,10 @@
+[{
+    "title": "Aspen",
+    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "aspen.png"
+},
+{
+    "title": "Boulder",
+    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "boulder.png"
+}]
