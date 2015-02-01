@@ -1,1 +1,10 @@
-[]
+[{
+	"name": "Python",
+	"expertise": "Proficient",
+	"experience": "2 years"
+},{
+	"name": "Java",
+	"expertise": "Proficient",
+	"experience": "4 years"
+}
+]
